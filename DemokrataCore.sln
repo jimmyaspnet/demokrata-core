@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demokrata.Core", "Demokrata.Core\Demokrata.Core.csproj", "{333C7E2D-FE17-4EC2-8B12-831ECBB46964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333C7E2D-FE17-4EC2-8B12-831ECBB46964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333C7E2D-FE17-4EC2-8B12-831ECBB46964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333C7E2D-FE17-4EC2-8B12-831ECBB46964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333C7E2D-FE17-4EC2-8B12-831ECBB46964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6F2781-92FF-4D37-9DAE-D9905A8489E4}
+	EndGlobalSection
+EndGlobal

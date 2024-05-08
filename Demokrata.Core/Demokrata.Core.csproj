@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PlatformTarget>x64</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Demokrata.Core</Title>
     <Company>Dasigno</Company>
@@ -12,6 +12,7 @@
     <Description>This library contains the helpers to creates a new demokrata api</Description>
     <PackageProjectUrl>https://github.com/jimmyaspnet/demokrata-core</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jimmyaspnet/demokrata-core</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
